@@ -82,7 +82,7 @@ Curtidas: 0
 ° GOSTOU DA MUSICA? °
 1 | Sim :)
 2 | Não :(
-0
+
 ```
 
 ---
